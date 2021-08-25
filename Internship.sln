@@ -13,18 +13,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interfaces", "Interfaces", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces.Workshop", "Interfaces.Workshop\Interfaces.Workshop.csproj", "{AA5194EF-3ADF-4FA0-AA84-8E8613D321B4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces.Workshop.Finished", "Interfaces.Workshop.Finished\Interfaces.Workshop.Finished.csproj", "{7A2376F9-02FE-4089-A8FA-B5DF3462F33A}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DependencyInjection", "DependencyInjection", "{0A45706D-2D1B-4093-8734-62092BFCE96F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DI.Demo", "DI.Demo\DI.Demo.csproj", "{D36599DD-AB0D-4379-9C87-78229D3640F6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DI.Demo.Finished", "DI.Demo.Finished\DI.Demo.Finished.csproj", "{D2737029-16EA-4121-AB92-21AD15F6929F}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI.Workshop", "DI.Workshop\DI.Workshop.csproj", "{F663A2C3-E059-4975-993B-46C66B1AD85C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI.Workshop.Finished", "DI.Workshop.Finished\DI.Workshop.Finished.csproj", "{E8213BA2-D071-4BDF-9186-9D4CDD25FCBB}"
-EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
