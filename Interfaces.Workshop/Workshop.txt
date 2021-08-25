@@ -1,0 +1,10 @@
+﻿First digital library in Mostar is storing Physical books and audio books.
+Currently the library is working but it has certain limitations.
+Every single item whether it is Physical book or Audio book are implementing all the items from the Library item.
+
+Try to see throughout the classes how can you improove design of the library by only implementing members and methods that each item type needs.
+
+Hint: ISP (Interface segregation principle)
+Bonus points for effective code architecture with folders.
+
+Duration: 15 minutes

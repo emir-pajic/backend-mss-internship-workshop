@@ -1,0 +1,24 @@
+﻿This workshop is supposed to help participants to closer understand DIP (Dependency Inversion Principle).
+
+Current project is all about payment and shipping and does not adapt to ISP (Interface Segregation Principle) and DIP (Dependency Inversion Principle)
+
+Project has one route and that is /api/payment with two methods GET and POST
+We will be using POST method to be checking if our payment and shipment is working.
+
+Using postman send POST request to above stated route with Request Body JSON:
+
+{  
+  "Amount": ,
+  "CardNumber": "",
+  "Address": "",
+  "City": "",
+  "Country": ""  
+}
+
+Enter your values and see if the application works.
+
+TASK: Make your project design better using ISP and DIP.
+
+Bonus points for reading the PaymentType and ServiceType from Configuration when Registering services.
+
+Remember, GOOGLE is your best friend.
